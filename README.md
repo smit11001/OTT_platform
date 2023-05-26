@@ -1,16 +1,9 @@
 # mw3
 
-A new Flutter project.
+OTT platform
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/smit11001/OTT_platform/assets/113500028/af2d9436-ea06-43c2-b1b6-c86a4a6ab7fe
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
